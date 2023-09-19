@@ -1,4 +1,5 @@
-  "nikeinfo"[
+{
+    "nikeinfo":[
         {
             "img": "new-one.png",
             "title": "The Dandy chair",
@@ -25,3 +26,4 @@
         }
 
     ]
+}
